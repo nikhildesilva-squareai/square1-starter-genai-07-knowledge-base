@@ -1,0 +1,8 @@
+{"query": "How long do refunds take to process?", "expected_sources": ["kb-refunds-2026", "kb-refunds-2024"], "fresh_source": "kb-refunds-2026", "note": "Near-duplicate refunds docs; fresher one says 5 business days."}
+{"query": "What is the refund request window?", "expected_sources": ["kb-refunds-2026", "kb-refunds-2024"], "fresh_source": "kb-refunds-2026", "note": "Fresher policy widened the window from 14 to 30 days."}
+{"query": "How long is deleted data kept on the Business plan?", "expected_sources": ["kb-data-retention-business", "kb-data-retention-standard"], "fresh_source": "kb-data-retention-business", "note": "Conflict: 365 days (Business, newer) vs 90 days (standard)."}
+{"query": "What are the API rate limits?", "expected_sources": ["kb-api-rate-limits"], "fresh_source": "kb-api-rate-limits", "note": null}
+{"query": "How do I enable single sign-on?", "expected_sources": ["kb-sso-setup"], "fresh_source": "kb-sso-setup", "note": null}
+{"query": "Which plan includes audit logs and SSO?", "expected_sources": ["kb-billing-plans"], "fresh_source": "kb-billing-plans", "note": null}
+{"query": "How do I export all my data?", "expected_sources": ["kb-export-data"], "fresh_source": "kb-export-data", "note": null}
+{"query": "Can I manage billing from the mobile app?", "expected_sources": ["kb-mobile-app"], "fresh_source": "kb-mobile-app", "note": null}

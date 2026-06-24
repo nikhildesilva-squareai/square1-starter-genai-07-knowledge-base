@@ -1,0 +1,7 @@
+anthropic>=0.40
+pytest>=8.0
+# For the stretch goals (real embeddings / pgvector / file parsing):
+# voyageai>=0.3
+# supabase>=2.0
+# pypdf>=4.0
+# python-docx>=1.1

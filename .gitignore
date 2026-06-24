@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.env
+data/corpus/
+*.sqlite
+*.faiss
+*.index
+outputs/
+
+# Square 1: keep dataset tracked; never commit the zip artifact
+!dataset/
+!dataset/**
+dataset.zip
